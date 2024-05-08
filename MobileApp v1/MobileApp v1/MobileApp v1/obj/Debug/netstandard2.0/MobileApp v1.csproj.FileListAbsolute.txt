@@ -1,0 +1,15 @@
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\bin\Debug\netstandard2.0\MobileApp v1.deps.json
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\bin\Debug\netstandard2.0\MobileApp v1.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\bin\Debug\netstandard2.0\ref\MobileApp v1.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\bin\Debug\netstandard2.0\MobileApp v1.pdb
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MobileApp v1.csproj.AssemblyReference.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MobileApp v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MobileApp v1.AssemblyInfoInputs.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MobileApp v1.AssemblyInfo.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MobileApp v1.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MobileApp v1.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\refint\MobileApp v1.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MobileApp v1.pdb

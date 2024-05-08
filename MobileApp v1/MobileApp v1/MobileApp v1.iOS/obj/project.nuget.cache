@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TN8rchAZcKItMp0m64os/D+hwex1WAbaILk9dwTj6k/jYgrRYq/r+3SOgtJ64zSiuFvUIbg0VVC5MwiFXLbDFQ==",
+  "success": true,
+  "projectFilePath": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MobileApp v1\\MobileApp v1\\MobileApp v1.iOS\\MobileApp v1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
