@@ -13,3 +13,5 @@ D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\
 D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MobileApp v1.dll
 D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\refint\MobileApp v1.dll
 D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MobileApp v1.pdb
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\GreetPage.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MobileApp v1\MobileApp v1\MobileApp v1\obj\Debug\netstandard2.0\MobileApp v1.sourcelink.json
