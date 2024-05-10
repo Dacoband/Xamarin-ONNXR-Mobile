@@ -1,0 +1,16 @@
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\bin\Debug\netstandard2.0\AccessXAMLElement.deps.json
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\bin\Debug\netstandard2.0\AccessXAMLElement.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\bin\Debug\netstandard2.0\ref\AccessXAMLElement.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\bin\Debug\netstandard2.0\AccessXAMLElement.pdb
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\AccessXAMLElement.csproj.AssemblyReference.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\AccessXAMLElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\AccessXAMLElement.AssemblyInfoInputs.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\AccessXAMLElement.AssemblyInfo.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\AccessXAMLElement.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\AccessXAMLElement.sourcelink.json
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\XamlC.stamp
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\AccessXAMLElement.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\refint\AccessXAMLElement.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\AccessXAMLElement\AccessXAMLElement\AccessXAMLElement\obj\Debug\netstandard2.0\AccessXAMLElement.pdb
