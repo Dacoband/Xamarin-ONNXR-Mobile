@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "3E6Fjo81PAO9UFDKVKuOPhuId6pc/5pi5xUXZa7+ETrhoZtmotjQz/tw9cz/n+/UTpD08UV6ro+4YPpgFKDfCA==",
+  "dgSpecHash": "YlZKQi8A9xrjYxeeGpet8nS3hKXzK1C+QE0a2ajgAIvG/Tsi5JVh8Q5jbEeaCaD9CshjQ3xCPFuKC/zTIlNxxw==",
   "success": true,
   "projectFilePath": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MobileApp v1\\MobileApp v1\\MobileApp v1.Android\\MobileApp v1.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.bcl.numerics\\8.0.0\\microsoft.bcl.numerics.8.0.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.16.0\\microsoft.ml.onnxruntime.1.16.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.16.0\\microsoft.ml.onnxruntime.managed.1.16.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\system.numerics.tensors\\8.0.0\\system.numerics.tensors.8.0.0.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
     "C:\\Users\\bolic\\.nuget\\packages\\xamarin.androidx.annotation.experimental\\1.1.0.1\\xamarin.androidx.annotation.experimental.1.1.0.1.nupkg.sha512",

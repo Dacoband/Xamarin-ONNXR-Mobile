@@ -50,11 +50,19 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.ML.OnnxRuntime": {
+              "target": "Package",
+              "version": "[1.16.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Numerics.Tensors": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
