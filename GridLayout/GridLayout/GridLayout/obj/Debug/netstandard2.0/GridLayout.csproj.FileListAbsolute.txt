@@ -1,0 +1,16 @@
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\bin\Debug\netstandard2.0\GridLayout.deps.json
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\bin\Debug\netstandard2.0\GridLayout.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\bin\Debug\netstandard2.0\ref\GridLayout.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\bin\Debug\netstandard2.0\GridLayout.pdb
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.csproj.AssemblyReference.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.AssemblyInfoInputs.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.AssemblyInfo.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.sourcelink.json
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\XamlC.stamp
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\refint\GridLayout.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\GridLayout\GridLayout\GridLayout\obj\Debug\netstandard2.0\GridLayout.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6fU/iSggD6F1d2wc/tLdD5c4lGSqkEzslTh2nVZ35YULmWo4Vt8YaKojHcwn6fHS/LntdQ7N2MtLziJO4gYFg==",
+  "success": true,
+  "projectFilePath": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\GridLayout\\GridLayout\\GridLayout\\GridLayout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

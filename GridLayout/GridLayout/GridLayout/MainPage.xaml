@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GridLayout.MainPage">
+
+    <!--<Grid BackgroundColor="Blue"
+          RowSpacing="1"
+          ColumnSpacing="1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="250"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="75"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Text="YuukiiLock" BackgroundColor="White"/>
+        <Label Grid.Row="1" Grid.Column="0" Text="Dacoband" BackgroundColor="White"/>
+        <Label Grid.Row="2" Grid.Column="0" Text="Volka" BackgroundColor="White"/>
+        <Label Grid.Row="3" Grid.Column="0" Text="Rye" BackgroundColor="White"
+               Grid.ColumnSpan="4"/>
+        <Label Grid.Row="0" Grid.Column="1" Text="Blanc" BackgroundColor="White"/>
+        <Label Grid.Row="1" Grid.Column="1" Text="Soju" BackgroundColor="White"/>
+        <Label Grid.Row="2" Grid.Column="1" Text="Whisky" BackgroundColor="White"/>
+        <Label Grid.Row="3" Grid.Column="1" Text="Rum" BackgroundColor="White"/>
+        <Label Grid.Row="0" Grid.Column="2" Text="Bourbone" BackgroundColor="White"/>
+        <Label Grid.Row="1" Grid.Column="2" Text="Sake" BackgroundColor="White"/>
+        <Label Grid.Row="2" Grid.Column="2" Text="Rust" BackgroundColor="White"/>
+        <Label Grid.Row="3" Grid.Column="2" Text="Ha Noi" BackgroundColor="White"/>
+        <Label Grid.Row="0" Grid.Column="3" Text="Leski" BackgroundColor="White"/>
+        <Label Grid.Row="1" Grid.Column="3" Text="Chianti" BackgroundColor="White"/>
+        <Label Grid.Row="2" Grid.Column="3" Text="Juice" BackgroundColor="White"/>
+        <Label Grid.Row="3" Grid.Column="3" Text="Mirinda" BackgroundColor="White"/>
+    </Grid>-->
+
+</ContentPage>
