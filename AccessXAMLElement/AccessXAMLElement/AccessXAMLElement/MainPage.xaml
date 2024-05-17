@@ -4,24 +4,38 @@
              x:Class="AccessXAMLElement.MainPage">
 
     <StackLayout>
-        <Label Text="Rotating Text"
-               BindingContext="{x:Reference slider}"
-               Rotation="{Binding Value}"
+        <Label 
+               FontSize="{Binding Source={x:Reference slider}, Path=Value}"
                HorizontalOptions="Center"
                VerticalOptions="CenterAndExpand"
                x:Name="rotatingLable"
-               FontSize="Large"/>
-        <Slider Maximum="360"
+               HorizontalTextAlignment="Center"
+               FontAttributes="Italic"
+               Margin="15"/>
+        <Button Text="Next" Clicked="Button_Clicked"
+                CornerRadius="15"
+                Margin="20"/>
+        <Slider Minimum="0"
+                Maximum="55"
                 x:Name="slider"
-                MinimumTrackColor="Green"
-                MaximumTrackColor="Red"
-                ThumbColor="Green"/>
+                MinimumTrackColor="DeepSkyBlue"
+                MaximumTrackColor="Black"
+                ThumbColor="DeepSkyBlue"
+                Margin="20,0,20,0"/>
         <Label BindingContext="{x:Reference slider}"
-               Text="{Binding Value, StringFormat='The angle is {0:F2} degress'}"
+               Text="{Binding Value, StringFormat='Font Size: {0:F0}'}"
                HorizontalOptions="Center"
                VerticalOptions="Center"
                x:Name="sliderValue"
                FontSize="Large"/>
+        <Slider x:Name="slider2"
+                MinimumTrackColor="DeepSkyBlue"
+                MaximumTrackColor="Black"
+                Minimum="0"
+                Maximum="8"
+                ThumbColor="DeepSkyBlue"
+                Margin="20,0,20,0"
+                ValueChanged="slider2_ValueChanged"/>
     </StackLayout>
 
 </ContentPage>
