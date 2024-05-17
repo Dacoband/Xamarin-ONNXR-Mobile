@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyStackLayout.MainPage">
+    <StackLayout BackgroundColor="Aquamarine"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                 Orientation="Horizontal"
+                 Padding="20, 20, 30, 20"
+                 Spacing="10">
+        <Button Text="Button1"/>
+        <Button Text="Button2"/>
+        <Button Text="Button3"/>
+        <StackLayout BackgroundColor="DarkBlue">
+            <Button Text="Button4"/>
+            <Button Text="Button5"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

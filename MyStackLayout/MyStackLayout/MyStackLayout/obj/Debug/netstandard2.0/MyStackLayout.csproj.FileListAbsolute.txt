@@ -1,0 +1,17 @@
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\bin\Debug\netstandard2.0\MyStackLayout.deps.json
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\bin\Debug\netstandard2.0\MyStackLayout.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\bin\Debug\netstandard2.0\ref\MyStackLayout.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\bin\Debug\netstandard2.0\MyStackLayout.pdb
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\MyStackLayout.csproj.AssemblyReference.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\MyStackLayout.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\MyStackLayout.AssemblyInfoInputs.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\MyStackLayout.AssemblyInfo.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\MyStackLayout.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\MyStackLayout.sourcelink.json
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\XamlC.stamp
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\MyStackLayout.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\refint\MyStackLayout.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\MyStackLayout.pdb
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\MyStackLayout\MyStackLayout\MyStackLayout\obj\Debug\netstandard2.0\StackLayoutinCode.xaml.g.cs
