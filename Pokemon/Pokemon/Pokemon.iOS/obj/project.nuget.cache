@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Knr7fFbjowWs/OwIOzmOQu/ekhbbx8e5svEuf6nQ49fAswqfuPABuYA7XzOyM7sUKWS//KnpkuYuCgAc2zt4OA==",
+  "success": true,
+  "projectFilePath": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\Pokemon\\Pokemon\\Pokemon.iOS\\Pokemon.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

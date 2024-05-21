@@ -1,0 +1,16 @@
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\bin\Debug\netstandard2.0\Pokemon.deps.json
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\bin\Debug\netstandard2.0\Pokemon.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\bin\Debug\netstandard2.0\ref\Pokemon.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\bin\Debug\netstandard2.0\Pokemon.pdb
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\Pokemon.csproj.AssemblyReference.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\Pokemon.AssemblyInfoInputs.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\Pokemon.AssemblyInfo.cs
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\Pokemon.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\Pokemon.sourcelink.json
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\XamlC.stamp
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\Pokemon.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\refint\Pokemon.dll
+D:\FPT_Learning\Xamarin-ONNXR-Mobile\Pokemon\Pokemon\Pokemon\obj\Debug\netstandard2.0\Pokemon.pdb

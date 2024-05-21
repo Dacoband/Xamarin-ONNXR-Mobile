@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\Pokemon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32051164-C8CC-4F3A-BB10-6CBE77192EDA}|..\\PokedexNET_Starter-master\\PokedexNET.csproj|d:\\fpt_learning\\xamarin-onnxr-mobile\\pokedexnet_starter-master\\stringvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32051164-C8CC-4F3A-BB10-6CBE77192EDA}|..\\PokedexNET_Starter-master\\PokedexNET.csproj|d:\\fpt_learning\\xamarin-onnxr-mobile\\pokedexnet_starter-master\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32051164-C8CC-4F3A-BB10-6CBE77192EDA}|..\\PokedexNET_Starter-master\\PokedexNET.csproj|d:\\fpt_learning\\xamarin-onnxr-mobile\\pokedexnet_starter-master\\pokedexentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32051164-C8CC-4F3A-BB10-6CBE77192EDA}|..\\PokedexNET_Starter-master\\PokedexNET.csproj|d:\\fpt_learning\\xamarin-onnxr-mobile\\pokedexnet_starter-master\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringValue.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\PokedexNET_Starter-master\\StringValue.cs",
+              "RelativeDocumentMoniker": "..\\PokedexNET_Starter-master\\StringValue.cs",
+              "ToolTip": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\PokedexNET_Starter-master\\StringValue.cs",
+              "RelativeToolTip": "..\\PokedexNET_Starter-master\\StringValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:38:55.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\PokedexNET_Starter-master\\packages.config",
+              "RelativeDocumentMoniker": "..\\PokedexNET_Starter-master\\packages.config",
+              "ToolTip": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\PokedexNET_Starter-master\\packages.config",
+              "RelativeToolTip": "..\\PokedexNET_Starter-master\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-21T03:33:46.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokedexEntries.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\PokedexNET_Starter-master\\PokedexEntries.cs",
+              "RelativeDocumentMoniker": "..\\PokedexNET_Starter-master\\PokedexEntries.cs",
+              "ToolTip": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\PokedexNET_Starter-master\\PokedexEntries.cs",
+              "RelativeToolTip": "..\\PokedexNET_Starter-master\\PokedexEntries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:31:48.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\PokedexNET_Starter-master\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\PokedexNET_Starter-master\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\PokedexNET_Starter-master\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\PokedexNET_Starter-master\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:31:26.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

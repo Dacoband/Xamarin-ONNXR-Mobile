@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|d:\\fpt_learning\\xamarin-onnxr-mobile\\mystacklayout\\mystacklayout\\mystacklayout\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|solutionrelative:mystacklayout\\mystacklayout\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|d:\\fpt_learning\\xamarin-onnxr-mobile\\mystacklayout\\mystacklayout\\mystacklayout\\stacklayoutincode.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|solutionrelative:mystacklayout\\mystacklayout\\stacklayoutincode.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|d:\\fpt_learning\\xamarin-onnxr-mobile\\mystacklayout\\mystacklayout\\mystacklayout\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "AbsoluteMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\mystacklayout\\mystacklayout\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|solutionrelative:mystacklayout\\mystacklayout\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|d:\\fpt_learning\\xamarin-onnxr-mobile\\mystacklayout\\mystacklayout\\mystacklayout\\stacklayoutincode.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "AbsoluteMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\mystacklayout\\mystacklayout\\stacklayoutincode.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|solutionrelative:mystacklayout\\mystacklayout\\stacklayoutincode.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\mystacklayout\\mystacklayout\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|solutionrelative:mystacklayout\\mystacklayout\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\mystacklayout\\mystacklayout\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89331AD9-5E92-43C8-A7C1-109C00426CC4}|MyStackLayout\\MyStackLayout\\MyStackLayout.csproj|solutionrelative:mystacklayout\\mystacklayout\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\MyStackLayout\\MyStackLayout\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MyStackLayout\\MyStackLayout\\MainPage.xaml.cs",
+              "ToolTip": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\MyStackLayout\\MyStackLayout\\MainPage.xaml.cs",
+              "RelativeToolTip": "MyStackLayout\\MyStackLayout\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:29:24.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\MyStackLayout\\MyStackLayout\\App.xaml.cs",
               "RelativeDocumentMoniker": "MyStackLayout\\MyStackLayout\\App.xaml.cs",
@@ -46,47 +62,44 @@
               "RelativeToolTip": "MyStackLayout\\MyStackLayout\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T09:35:47.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T09:35:47.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StackLayoutinCode.xaml.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\MyStackLayout\\MyStackLayout\\StackLayoutinCode.xaml.cs",
               "RelativeDocumentMoniker": "MyStackLayout\\MyStackLayout\\StackLayoutinCode.xaml.cs",
               "ToolTip": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\MyStackLayout\\MyStackLayout\\StackLayoutinCode.xaml.cs",
               "RelativeToolTip": "MyStackLayout\\MyStackLayout\\StackLayoutinCode.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T09:30:17.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "StackLayoutinCode.xaml",
               "DocumentMoniker": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\MyStackLayout\\MyStackLayout\\StackLayoutinCode.xaml",
               "RelativeDocumentMoniker": "MyStackLayout\\MyStackLayout\\StackLayoutinCode.xaml",
               "ToolTip": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\MyStackLayout\\MyStackLayout\\StackLayoutinCode.xaml",
               "RelativeToolTip": "MyStackLayout\\MyStackLayout\\StackLayoutinCode.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-17T09:30:13.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T09:30:13.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\MyStackLayout\\MyStackLayout\\MainPage.xaml",
               "RelativeDocumentMoniker": "MyStackLayout\\MyStackLayout\\MainPage.xaml",
               "ToolTip": "D:\\FPT_Learning\\Xamarin-ONNXR-Mobile\\MyStackLayout\\MyStackLayout\\MyStackLayout\\MainPage.xaml",
               "RelativeToolTip": "MyStackLayout\\MyStackLayout\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-17T09:18:09.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T09:18:09.071Z"
             }
           ]
         }
